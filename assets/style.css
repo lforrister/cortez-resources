@@ -258,7 +258,7 @@
      .header-block p {
          color: white;
          font-size: 1.1rem;
-         margin-left: 39%;
+         margin-left: 40%;
      }
 
         .card-border {
@@ -298,6 +298,38 @@
 
 }
 
+   @media (min-width: 1300px) {
+       .header-block p {
+           color: white;
+           font-size: 1.1rem;
+           margin-left: 35%;
+       }
+   }
+
+    @media (min-width: 1450px) {
+        .header-block p {
+            color: white;
+            font-size: 1.2rem;
+            margin-left: 35%;
+        }
+    }
+
+     @media (min-width: 1650px) {
+         .header-block p {
+             color: white;
+             font-size: 1.2rem;
+             margin-left: 40%;
+         }
+     }
+
+       @media (min-width: 1700px) {
+           .header-block p {
+               color: white;
+               font-size: 1.3rem;
+               margin-left: 40%;
+           }
+       }
+
 /*Large Screens */
     @media (min-width: 1824px) {
             .header-block {
@@ -314,11 +346,76 @@
             .header-block p {
                 color:white;
                 font-size: 1.4rem;
+                margin-left:28%;
             }
         
     } 
     
 /* Extra Large */
-    @media (min-width: 2560px) {
+      @media (min-width: 1900px) {
+          .header-block p {
+              color: white;
+              font-size: 1.4rem;
+              margin-left: 25%;
+          }
+        }
+
+
+         @media (min-width: 2020px) {
+             .header-block p {
+                 color: white;
+                 font-size: 1.4rem;
+                 margin-left: 25%;
+             }
+            }
+
+              @media (min-width: 2100px) {
+                  .header-block p {
+                      color: white;
+                      font-size: 1.4rem;
+                      margin-left: 23%;
+                  }
+                }
+
+    @media (min-width: 2200px) {
+          .header-block p {
+              color: white;
+              font-size: 1.4rem;
+              margin-left:40%;
+          }
 
     }
+
+      @media (min-width: 2400px) {
+          .header-block p {
+              color: white;
+              font-size: 1.4rem;
+              margin-left: 35%;
+          }
+      }
+
+         @media (min-width: 2600px) {
+             .header-block p {
+                 color: white;
+                 font-size: 1.4rem;
+                 margin-left: 40%;
+             }
+         }
+
+              @media (min-width: 2800px) {
+                  .header-block p {
+                      color: white;
+                      font-size: 1.4rem;
+                      margin-left: 45%;
+                  }
+              }
+
+         @media (min-width: 3000px) {
+            .header-block p {
+            color: white;
+            font-size: 1.4rem;
+            margin-left: 50%;
+            }
+        }
+
+       
