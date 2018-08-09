@@ -3457,7 +3457,7 @@ map-section .google-map[data-state="loading"] [data-state-details] {
 .kel-presley {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: white;
 
 }
 .kel-presley h2 {
@@ -3537,7 +3537,7 @@ map-section .google-map[data-state="loading"] [data-state-details] {
 .melissa-bell {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .melissa-bell h2 {
   text-align: left;
@@ -3679,7 +3679,7 @@ map-section .google-map[data-state="loading"] [data-state-details] {
 .phil-pritchett {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: white;
 }
 .phil-pritchett h2 {
   text-align: left;
