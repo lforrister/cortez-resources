@@ -1812,6 +1812,7 @@ map-section .google-map[data-state="loading"] [data-state-details] {
 }
 .cid-qXVbIbSDiZ {
   padding-top: 45px;
+  padding-bottom: 25px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
