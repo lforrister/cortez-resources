@@ -1812,7 +1812,6 @@ map-section .google-map[data-state="loading"] [data-state-details] {
 }
 .cid-qXVbIbSDiZ {
   padding-top: 45px;
-  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -3949,7 +3948,7 @@ map-section .google-map[data-state="loading"] [data-state-details] {
   font-size: 2.5rem !important;
 }
 .menu-section .navbar.navbar-short .navbar-logo a img {
-  height: 4.5rem !important;
+  height: 5rem !important;
 }
 
 .menu-section .navbar.navbar-short .navbar-logo .logo-white2 {
