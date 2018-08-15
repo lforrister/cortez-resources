@@ -63,6 +63,15 @@
           font-size: 20px;
       }
 
+        #contact-line {
+            padding-top: 15%;
+        }
+
+        .cid-qXCOEUghQN H2,
+        .cid-qXUZyz4yux H2 {
+            text-align:center;
+        }
+
 }
 
 /* Smartphone: */
@@ -126,6 +135,15 @@
                 padding-bottom: 0px;
                 background-color: #f9f9f9;
             }
+
+    #contact-line {
+        padding-top:15%;
+    }
+
+      .cid-qXCOEUghQN H2,
+      .cid-qXUZyz4yux H2 {
+          text-align: center;
+      }
 
 
 } 
@@ -212,6 +230,15 @@
                background-color: #f9f9f9;
            }
 
+             #contact-line {
+                 padding-top: 0;
+             }
+
+              .cid-qXCOEUghQN H2,
+              .cid-qXUZyz4yux H2 {
+                  text-align: center;
+              }
+
 
 }
 
@@ -270,6 +297,11 @@
             .top-pic-grey {
                display:none;
             }
+
+              .cid-qXCOEUghQN H2,
+              .cid-qXUZyz4yux H2 {
+                  text-align: left;
+              }
 
             
 }
